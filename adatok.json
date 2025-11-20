@@ -1,0 +1,592 @@
+[
+  {
+    "nev": "Real Madrid CF",
+    "alapitasi_ido": "1902-03-06",
+    "stadion": "Santiago Bernabéu",
+    "stadion_kapacitas": 81044,
+    "becenevek": ["Los Blancos", "Merengues"],
+    "foldrajzi_hely": "Madrid",
+    "logo": "real_madrid.png",
+    "kupak": {
+      "LaLiga": 36,
+      "Copa_del_Rey": 20,
+      "Supercopa": 13,
+      "BL_BEK": 14,
+      "Europa_League": 0,
+      "Kupagyőztesek_Kupaja": 2,
+      "UEFA_Szuperkupa": 5,
+      "Vilagkupa_Intercontinental_ClubWC": 8
+    },
+    "legeredmenyesebb_jatekos": "Cristiano Ronaldo (450 gol)",
+    "csapat_erteke_mrd_euro": 1.50
+  },
+  {
+    "nev": "FC Barcelona",
+    "alapitasi_ido": "1899-11-29",
+    "stadion": "Spotify Camp Nou",
+    "stadion_kapacitas": 99354,
+    "becenevek": ["Blaugrana", "Barça"],
+    "foldrajzi_hely": "Barcelona",
+    "logo": "barcelona.png",
+    "kupak": {
+      "LaLiga": 28,
+      "Copa_del_Rey": 31,
+      "Supercopa": 14,
+      "BL_BEK": 5,
+      "Europa_League": 0,
+      "Kupagyőztesek_Kupaja": 4,
+      "UEFA_Szuperkupa": 5,
+      "Vilagkupa_Intercontinental_ClubWC": 3
+    },
+    "legeredmenyesebb_jatekos": "Lionel Messi (672 gol)",
+    "csapat_erteke_mrd_euro": 1.20
+  },
+  {
+    "nev": "Atlético de Madrid",
+    "alapitasi_ido": "1903-04-26",
+    "stadion": "Cívitas Metropolitano",
+    "stadion_kapacitas": 68456,
+    "becenevek": ["Los Colchoneros"],
+    "foldrajzi_hely": "Madrid",
+    "logo": "atletico.png",
+    "kupak": {
+      "LaLiga": 11,
+      "Copa_del_Rey": 10,
+      "Supercopa": 2,
+      "BL_BEK": 0,
+      "Europa_League": 3,
+      "Kupagyőztesek_Kupaja": 1,
+      "UEFA_Szuperkupa": 3,
+      "Vilagkupa_Intercontinental_ClubWC": 1
+    },
+    "legeredmenyesebb_jatekos": "Luis Aragonés (173 gol)",
+    "csapat_erteke_mrd_euro": 0.70
+  },
+  {
+    "nev": "Athletic Club Bilbao",
+    "alapitasi_ido": "1898-01-01",
+    "stadion": "San Mamés",
+    "stadion_kapacitas": 53289,
+    "becenevek": ["Los Leones"],
+    "foldrajzi_hely": "Bilbao",
+    "logo": "athletic.png",
+    "kupak": {
+      "LaLiga": 8,
+      "Copa_del_Rey": 24,
+      "Supercopa": 3,
+      "BL_BEK": 0,
+      "Europa_League": 0,
+      "Kupagyőztesek_Kupaja": 0,
+      "UEFA_Szuperkupa": 0,
+      "Vilagkupa_Intercontinental_ClubWC": 0
+    },
+    "legeredmenyesebb_jatekos": "Telmo Zarra (335 gol)",
+    "csapat_erteke_mrd_euro": 0.30
+  },
+  {
+    "nev": "Valencia CF",
+    "alapitasi_ido": "1919-03-18",
+    "stadion": "Mestalla",
+    "stadion_kapacitas": 49430,
+    "becenevek": ["Los Che"],
+    "foldrajzi_hely": "Valencia",
+    "logo": "valencia.png",
+    "kupak": {
+      "LaLiga": 6,
+      "Copa_del_Rey": 8,
+      "Supercopa": 1,
+      "BL_BEK": 0,
+      "Europa_League": 1,
+      "Kupagyőztesek_Kupaja": 1,
+      "UEFA_Szuperkupa": 2,
+      "Vilagkupa_Intercontinental_ClubWC": 0
+    },
+    "legeredmenyesebb_jatekos": "Mundo (238 gol)",
+    "csapat_erteke_mrd_euro": 0.35
+  },
+  {
+    "nev": "Real Sociedad",
+    "alapitasi_ido": "1909-09-07",
+    "stadion": "Reale Arena",
+    "stadion_kapacitas": 39413,
+    "becenevek": ["Txuri-Urdin"],
+    "foldrajzi_hely": "San Sebastián",
+    "logo": "real_sociedad.png",
+    "kupak": {
+      "LaLiga": 2,
+      "Copa_del_Rey": 3,
+      "Supercopa": 1,
+      "BL_BEK": 0,
+      "Europa_League": 0,
+      "Kupagyőztesek_Kupaja": 0,
+      "UEFA_Szuperkupa": 0,
+      "Vilagkupa_Intercontinental_ClubWC": 0
+    },
+    "legeredmenyesebb_jatekos": "Joseba Etxeberria (105 gol)",
+    "csapat_erteke_mrd_euro": 0.45
+  },
+  {
+    "nev": "Sevilla FC",
+    "alapitasi_ido": "1905-01-25",
+    "stadion": "Ramón Sánchez-Pizjuán",
+    "stadion_kapacitas": 43883,
+    "becenevek": ["Los Nervionenses"],
+    "foldrajzi_hely": "Sevilla",
+    "logo": "sevilla.png",
+    "kupak": {
+      "LaLiga": 1,
+      "Copa_del_Rey": 5,
+      "Supercopa": 1,
+      "BL_BEK": 0,
+      "Europa_League": 7,
+      "Kupagyőztesek_Kupaja": 0,
+      "UEFA_Szuperkupa": 2,
+      "Vilagkupa_Intercontinental_ClubWC": 0
+    },
+    "legeredmenyesebb_jatekos": "Guerrero (218 gol)",
+    "csapat_erteke_mrd_euro": 0.40
+  },
+  {
+    "nev": "Real Betis",
+    "alapitasi_ido": "1907-09-12",
+    "stadion": "Benito Villamarín",
+    "stadion_kapacitas": 60721,
+    "becenevek": ["Los Verdiblancos"],
+    "foldrajzi_hely": "Sevilla",
+    "logo": "betis.png",
+    "kupak": {
+      "LaLiga": 1,
+      "Copa_del_Rey": 3,
+      "Supercopa": 0,
+      "BL_BEK": 0,
+      "Europa_League": 0,
+      "Kupagyőztesek_Kupaja": 0,
+      "UEFA_Szuperkupa": 0,
+      "Vilagkupa_Intercontinental_ClubWC": 0
+    },
+    "legeredmenyesebb_jatekos": "Rubén Castro (148 gol)",
+    "csapat_erteke_mrd_euro": 0.32
+  },
+  {
+    "nev": "Deportivo La Coruña",
+    "alapitasi_ido": "1906-03-02",
+    "stadion": "Riazor",
+    "stadion_kapacitas": 32312,
+    "becenevek": ["Dépor", "SuperDepor"],
+    "foldrajzi_hely": "La Coruña",
+    "logo": "deportivo.png",
+    "kupak": {
+      "LaLiga": 1,
+      "Copa_del_Rey": 2,
+      "Supercopa": 3,
+      "BL_BEK": 0,
+      "Europa_League": 0,
+      "Kupagyőztesek_Kupaja": 0,
+      "UEFA_Szuperkupa": 0,
+      "Vilagkupa_Intercontinental_ClubWC": 0
+    },
+    "legeredmenyesebb_jatekos": "Bebeto (86 gol)",
+    "csapat_erteke_mrd_euro": 0.12
+  },
+  {
+    "nev": "Villarreal CF",
+    "alapitasi_ido": "1923-03-10",
+    "stadion": "Estadio de la Cerámica",
+    "stadion_kapacitas": 23500,
+    "becenevek": ["El Submarino Amarillo"],
+    "foldrajzi_hely": "Villarreal",
+    "logo": "villarreal.png",
+    "kupak": {
+      "LaLiga": 0,
+      "Copa_del_Rey": 0,
+      "Supercopa": 0,
+      "BL_BEK": 0,
+      "Europa_League": 1,
+      "Kupagyőztesek_Kupaja": 0,
+      "UEFA_Szuperkupa": 0,
+      "Vilagkupa_Intercontinental_ClubWC": 0
+    },
+    "legeredmenyesebb_jatekos": "Giuseppe Rossi (82 gol)",
+    "csapat_erteke_mrd_euro": 0.35
+  },
+  {
+    "nev": "Espanyol",
+    "alapitasi_ido": "1900-10-28",
+    "stadion": "RCDE Stadium",
+    "stadion_kapacitas": 40500,
+    "becenevek": ["Pericos"],
+    "foldrajzi_hely": "Barcelona",
+    "logo": "espanyol.png",
+    "kupak": {
+      "LaLiga": 0,
+      "Copa_del_Rey": 4,
+      "Supercopa": 0,
+      "BL_BEK": 0,
+      "Europa_League": 0,
+      "Kupagyőztesek_Kupaja": 0,
+      "UEFA_Szuperkupa": 0,
+      "Vilagkupa_Intercontinental_ClubWC": 0
+    },
+    "legeredmenyesebb_jatekos": "Rául Tamudo (129 gol)",
+    "csapat_erteke_mrd_euro": 0.16
+  },
+  {
+    "nev": "Celta Vigo",
+    "alapitasi_ido": "1923-08-23",
+    "stadion": "Abanca-Balaídos",
+    "stadion_kapacitas": 29000,
+    "becenevek": ["Os Celestes"],
+    "foldrajzi_hely": "Vigo",
+    "logo": "celta.png",
+    "kupak": {
+      "LaLiga": 0,
+      "Copa_del_Rey": 0,
+      "Supercopa": 0,
+      "BL_BEK": 0,
+      "Europa_League": 0,
+      "Kupagyőztesek_Kupaja": 0,
+      "UEFA_Szuperkupa": 0,
+      "Vilagkupa_Intercontinental_ClubWC": 0
+    },
+    "legeredmenyesebb_jatekos": "Iago Aspas (200+ gol)",
+    "csapat_erteke_mrd_euro": 0.22
+  },
+  {
+    "nev": "Real Zaragoza",
+    "alapitasi_ido": "1932-08-18",
+    "stadion": "La Romareda",
+    "stadion_kapacitas": 34596,
+    "becenevek": ["Los Maños"],
+    "foldrajzi_hely": "Zaragoza",
+    "logo": "zaragoza.png",
+    "kupak": {
+      "LaLiga": 0,
+      "Copa_del_Rey": 6,
+      "Supercopa": 1,
+      "BL_BEK": 0,
+      "Europa_League": 1,
+      "Kupagyőztesek_Kupaja": 1,
+      "UEFA_Szuperkupa": 0,
+      "Vilagkupa_Intercontinental_ClubWC": 0
+    },
+    "legeredmenyesebb_jatekos": "Marcelino (117 gol)",
+    "csapat_erteke_mrd_euro": 0.14
+  },
+  
+
+  {
+    "nev": "Real Valladolid",
+    "alapitasi_ido": "1928-06-20",
+    "stadion": "Estadio José Zorrilla",
+    "stadion_kapacitas": 27846,
+    "becenevek": ["Pucela"],
+    "foldrajzi_hely": "Valladolid",
+    "logo": "valladolid.png",
+    "kupak": {
+      "LaLiga": 0,
+      "Copa_del_Rey": 0,
+      "Supercopa": 0,
+      "BL_BEK": 0,
+      "Europa_League": 0,
+      "Kupagyőztesek_Kupaja": 0,
+      "UEFA_Szuperkupa": 0,
+      "Vilagkupa_Intercontinental_ClubWC": 0
+    },
+    "legeredmenyesebb_jatekos": "Víctor Fernández (50+ gol)",
+    "csapat_erteke_mrd_euro": 0.20
+  },
+  {
+    "nev": "Sporting Gijón",
+    "alapitasi_ido": "1905-06-01",
+    "stadion": "El Molinón",
+    "stadion_kapacitas": 30000,
+    "becenevek": ["Rojiblancos"],
+    "foldrajzi_hely": "Gijón",
+    "logo": "gijon.png",
+    "kupak": {
+      "LaLiga": 0,
+      "Copa_del_Rey": 0,
+      "Supercopa": 0,
+      "BL_BEK": 0,
+      "Europa_League": 0,
+      "Kupagyőztesek_Kupaja": 0,
+      "UEFA_Szuperkupa": 0,
+      "Vilagkupa_Intercontinental_ClubWC": 0
+    },
+    "legeredmenyesebb_jatekos": "Quini (165 gol)",
+    "csapat_erteke_mrd_euro": 0.18
+  },
+  {
+    "nev": "Racing Santander",
+    "alapitasi_ido": "1913-06-14",
+    "stadion": "El Sardinero",
+    "stadion_kapacitas": 22222,
+    "becenevek": ["Verdiblancos"],
+    "foldrajzi_hely": "Santander",
+    "logo": "racing.png",
+    "kupak": {
+      "LaLiga": 0,
+      "Copa_del_Rey": 0,
+      "Supercopa": 0,
+      "BL_BEK": 0,
+      "Europa_League": 0,
+      "Kupagyőztesek_Kupaja": 0,
+      "UEFA_Szuperkupa": 0,
+      "Vilagkupa_Intercontinental_ClubWC": 0
+    },
+    "legeredmenyesebb_jatekos": "Ricky (67 gol)",
+    "csapat_erteke_mrd_euro": 0.16
+  },
+  {
+    "nev": "Real Oviedo",
+    "alapitasi_ido": "1926-03-26",
+    "stadion": "Carlos Tartiere",
+    "stadion_kapacitas": 30500,
+    "becenevek": ["Los Azules"],
+    "foldrajzi_hely": "Oviedo",
+    "logo": "oviedo.png",
+    "kupak": {
+      "LaLiga": 0,
+      "Copa_del_Rey": 0,
+      "Supercopa": 0,
+      "BL_BEK": 0,
+      "Europa_League": 0,
+      "Kupagyőztesek_Kupaja": 0,
+      "UEFA_Szuperkupa": 0,
+      "Vilagkupa_Intercontinental_ClubWC": 0
+    },
+    "legeredmenyesebb_jatekos": "Lángara (124 gol)",
+    "csapat_erteke_mrd_euro": 0.17
+  },
+  {
+    "nev": "UD Las Palmas",
+    "alapitasi_ido": "1949-08-22",
+    "stadion": "Estadio de Gran Canaria",
+    "stadion_kapacitas": 32665,
+    "becenevek": ["La Unión Deportiva"],
+    "foldrajzi_hely": "Las Palmas",
+    "logo": "las_palmas.png",
+    "kupak": {
+      "LaLiga": 0,
+      "Copa_del_Rey": 0,
+      "Supercopa": 0,
+      "BL_BEK": 0,
+      "Europa_League": 0,
+      "Kupagyőztesek_Kupaja": 0,
+      "UEFA_Szuperkupa": 0,
+      "Vilagkupa_Intercontinental_ClubWC": 0
+    },
+    "legeredmenyesebb_jatekos": "Germán Dévora (97 gol)",
+    "csapat_erteke_mrd_euro": 0.12
+  },
+  {
+    "nev": "Granada CF",
+    "alapitasi_ido": "1931-04-06",
+    "stadion": "Nuevo Los Cármenes",
+    "stadion_kapacitas": 23156,
+    "becenevek": ["Rojiblancos Nazaríes"],
+    "foldrajzi_hely": "Granada",
+    "logo": "granada.png",
+    "kupak": {
+      "LaLiga": 0,
+      "Copa_del_Rey": 0,
+      "Supercopa": 0,
+      "BL_BEK": 0,
+      "Europa_League": 0,
+      "Kupagyőztesek_Kupaja": 0,
+      "UEFA_Szuperkupa": 0,
+      "Vilagkupa_Intercontinental_ClubWC": 0
+    },
+    "legeredmenyesebb_jatekos": "Enrique Porta (34 gol)",
+    "csapat_erteke_mrd_euro": 0.16
+  },
+  {
+    "nev": "Levante UD",
+    "alapitasi_ido": "1909-09-09",
+    "stadion": "Estadi Ciutat de València",
+    "stadion_kapacitas": 26354,
+    "becenevek": ["Granotas"],
+    "foldrajzi_hely": "Valencia",
+    "logo": "levante.png",
+    "kupak": {
+      "LaLiga": 0,
+      "Copa_del_Rey": 0,
+      "Supercopa": 0,
+      "BL_BEK": 0,
+      "Europa_League": 0,
+      "Kupagyőztesek_Kupaja": 0,
+      "UEFA_Szuperkupa": 0,
+      "Vilagkupa_Intercontinental_ClubWC": 0
+    },
+    "legeredmenyesebb_jatekos": "Sergio Ballesteros (klubikon)",
+    "csapat_erteke_mrd_euro": 0.13
+  },
+  {
+    "nev": "Rayo Vallecano",
+    "alapitasi_ido": "1924-05-29",
+    "stadion": "Estadio de Vallecas",
+    "stadion_kapacitas": 14708,
+    "becenevek": ["Los Franjirrojos"],
+    "foldrajzi_hely": "Madrid",
+    "logo": "rayo.png",
+    "kupak": {
+      "LaLiga": 0,
+      "Copa_del_Rey": 0,
+      "Supercopa": 0,
+      "BL_BEK": 0,
+      "Europa_League": 0,
+      "Kupagyőztesek_Kupaja": 0,
+      "UEFA_Szuperkupa": 0,
+      "Vilagkupa_Intercontinental_ClubWC": 0
+    },
+    "legeredmenyesebb_jatekos": "Potele (54 gol)",
+    "csapat_erteke_mrd_euro": 0.18
+  },
+  {
+    "nev": "Getafe CF",
+    "alapitasi_ido": "1983-02-08",
+    "stadion": "Coliseum Alfonso Pérez",
+    "stadion_kapacitas": 17393,
+    "becenevek": ["Azulones"],
+    "foldrajzi_hely": "Madrid",
+    "logo": "getafe.png",
+    "kupak": {
+      "LaLiga": 0,
+      "Copa_del_Rey": 0,
+      "Supercopa": 0,
+      "BL_BEK": 0,
+      "Europa_League": 0,
+      "Kupagyőztesek_Kupaja": 0,
+      "UEFA_Szuperkupa": 0,
+      "Vilagkupa_Intercontinental_ClubWC": 0
+    },
+    "legeredmenyesebb_jatekos": "Ángel Rodríguez (36 gol)",
+    "csapat_erteke_mrd_euro": 0.19
+  },
+  {
+    "nev": "Deportivo Alavés",
+    "alapitasi_ido": "1921-01-23",
+    "stadion": "Mendizorrotza",
+    "stadion_kapacitas": 19840,
+    "becenevek": ["Babazorros"],
+    "foldrajzi_hely": "Vitoria-Gasteiz",
+    "logo": "alaves.png",
+    "kupak": {
+      "LaLiga": 0,
+      "Copa_del_Rey": 0,
+      "Supercopa": 0,
+      "BL_BEK": 0,
+      "Europa_League": 0,
+      "Kupagyőztesek_Kupaja": 0,
+      "UEFA_Szuperkupa": 0,
+      "Vilagkupa_Intercontinental_ClubWC": 0
+    },
+    "legeredmenyesebb_jatekos": "Javi Moreno",
+    "csapat_erteke_mrd_euro": 0.15
+  },
+  {
+    "nev": "CD Tenerife",
+    "alapitasi_ido": "1912-08-08",
+    "stadion": "Estadio Heliodoro Rodríguez López",
+    "stadion_kapacitas": 22824,
+    "becenevek": ["Tete"],
+    "foldrajzi_hely": "Santa Cruz de Tenerife",
+    "logo": "tenerife.png",
+    "kupak": {
+      "LaLiga": 0,
+      "Copa_del_Rey": 0,
+      "Supercopa": 0,
+      "BL_BEK": 0,
+      "Europa_League": 0,
+      "Kupagyőztesek_Kupaja": 0,
+      "UEFA_Szuperkupa": 0,
+      "Vilagkupa_Intercontinental_ClubWC": 0
+    },
+    "legeredmenyesebb_jatekos": "Nino (77 gol)",
+    "csapat_erteke_mrd_euro": 0.12
+  },
+  {
+    "nev": "Elche CF",
+    "alapitasi_ido": "1923-08-28",
+    "stadion": "Estadio Manuel Martínez Valero",
+    "stadion_kapacitas": 36017,
+    "becenevek": ["Los Franjiverdes"],
+    "foldrajzi_hely": "Elche",
+    "logo": "elche.png",
+    "kupak": {
+      "LaLiga": 0,
+      "Copa_del_Rey": 0,
+      "Supercopa": 0,
+      "BL_BEK": 0,
+      "Europa_League": 0,
+      "Kupagyőztesek_Kupaja": 0,
+      "UEFA_Szuperkupa": 0,
+      "Vilagkupa_Intercontinental_ClubWC": 0
+    },
+    "legeredmenyesebb_jatekos": "Nino",
+    "csapat_erteke_mrd_euro": 0.11
+  },
+  {
+    "nev": "Cádiz CF",
+    "alapitasi_ido": "1910-09-10",
+    "stadion": "Nuevo Mirandilla",
+    "stadion_kapacitas": 20000,
+    "becenevek": ["Los Piratas", "Submarino Amarillo (régi)"],
+    "foldrajzi_hely": "Cádiz",
+    "logo": "cadiz.png",
+    "kupak": {
+      "LaLiga": 0,
+      "Copa_del_Rey": 0,
+      "Supercopa": 0,
+      "BL_BEK": 0,
+      "Europa_League": 0,
+      "Kupagyőztesek_Kupaja": 0,
+      "UEFA_Szuperkupa": 0,
+      "Vilagkupa_Intercontinental_ClubWC": 0
+    },
+    "legeredmenyesebb_jatekos": "Mágico González",
+    "csapat_erteke_mrd_euro": 0.14
+  },
+  {
+    "nev": "Girona FC",
+    "alapitasi_ido": "1930-07-23",
+    "stadion": "Estadi Montilivi",
+    "stadion_kapacitas": 14000,
+    "becenevek": ["Gironi"],
+    "foldrajzi_hely": "Girona",
+    "logo": "girona.png",
+    "kupak": {
+      "LaLiga": 0,
+      "Copa_del_Rey": 0,
+      "Supercopa": 0,
+      "BL_BEK": 0,
+      "Europa_League": 0,
+      "Kupagyőztesek_Kupaja": 0,
+      "UEFA_Szuperkupa": 0,
+      "Vilagkupa_Intercontinental_ClubWC": 0
+    },
+    "legeredmenyesebb_jatekos": "Cristhian Stuani (100+ gol)",
+    "csapat_erteke_mrd_euro": 0.22
+  },
+  {
+    "nev": "SD Eibar",
+    "alapitasi_ido": "1940-11-30",
+    "stadion": "Ipurua",
+    "stadion_kapacitas": 8120,
+    "becenevek": ["Armeros"],
+    "foldrajzi_hely": "Eibar",
+    "logo": "eibar.png",
+    "kupak": {
+      "LaLiga": 0,
+      "Copa_del_Rey": 0,
+      "Supercopa": 0,
+      "BL_BEK": 0,
+      "Europa_League": 0,
+      "Kupagyőztesek_Kupaja": 0,
+      "UEFA_Szuperkupa": 0,
+      "Vilagkupa_Intercontinental_ClubWC": 0
+    },
+    "legeredmenyesebb_jatekos": "Charles (39 gol)",
+    "csapat_erteke_mrd_euro": 0.10
+  }
+]
