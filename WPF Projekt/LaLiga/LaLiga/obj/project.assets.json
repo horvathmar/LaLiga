@@ -55,23 +55,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\torma.alex\\.nuget\\packages\\": {},
+    "C:\\Users\\horvath.mark\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "Z:\\WPF Projekt\\LaLiga\\LaLiga\\LaLiga.csproj",
+      "projectUniqueName": "Z:\\programozás\\C#\\LaLiga\\WPF Projekt\\LaLiga\\LaLiga\\LaLiga.csproj",
       "projectName": "LaLiga",
-      "projectPath": "Z:\\WPF Projekt\\LaLiga\\LaLiga\\LaLiga.csproj",
-      "packagesPath": "C:\\Users\\torma.alex\\.nuget\\packages\\",
-      "outputPath": "Z:\\WPF Projekt\\LaLiga\\LaLiga\\obj\\",
+      "projectPath": "Z:\\programozás\\C#\\LaLiga\\WPF Projekt\\LaLiga\\LaLiga\\LaLiga.csproj",
+      "packagesPath": "C:\\Users\\horvath.mark\\.nuget\\packages\\",
+      "outputPath": "Z:\\programozás\\C#\\LaLiga\\WPF Projekt\\LaLiga\\LaLiga\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\torma.alex\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\horvath.mark\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],

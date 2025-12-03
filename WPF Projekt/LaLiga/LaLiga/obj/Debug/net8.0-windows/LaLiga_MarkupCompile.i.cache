@@ -4,16 +4,16 @@
 winexe
 C#
 .cs
-Z:\WPF Projekt\LaLiga\LaLiga\obj\Debug\net8.0-windows\
+Z:\programozás\C#\LaLiga\WPF Projekt\LaLiga\LaLiga\obj\Debug\net8.0-windows\
 LaLiga
 none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP;WINDOWS;WINDOWS7_0;NET5_0_OR_GREATER;NET6_0_OR_GREATER;NET7_0_OR_GREATER;NET8_0_OR_GREATER;NETCOREAPP3_0_OR_GREATER;NETCOREAPP3_1_OR_GREATER;WINDOWS7_0_OR_GREATER
-Z:\WPF Projekt\LaLiga\LaLiga\App.xaml
+Z:\programozás\C#\LaLiga\WPF Projekt\LaLiga\LaLiga\App.xaml
 21075945241
 
 9-1524413696
-1992084377703
+199-1529175318
 MainWindow.xaml;TeamEditorWindow.xaml;
 
 False

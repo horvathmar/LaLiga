@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "BCJZqZouciw=",
+  "dgSpecHash": "ONbFs2CiIT4=",
   "success": true,
-  "projectFilePath": "Z:\\WPF Projekt\\LaLiga\\LaLiga\\LaLiga.csproj",
+  "projectFilePath": "Z:\\programozás\\C#\\LaLiga\\WPF Projekt\\LaLiga\\LaLiga\\LaLiga.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\torma.alex\\.nuget\\packages\\newtonsoft.json\\13.0.4\\newtonsoft.json.13.0.4.nupkg.sha512"
+    "C:\\Users\\horvath.mark\\.nuget\\packages\\newtonsoft.json\\13.0.4\\newtonsoft.json.13.0.4.nupkg.sha512"
   ],
   "logs": []
 }

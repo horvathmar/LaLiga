@@ -116,7 +116,7 @@ namespace LaLiga {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/LaLiga;V1.0.0.0;component/teameditorwindow.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/LaLiga;component/teameditorwindow.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\TeamEditorWindow.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

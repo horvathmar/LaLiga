@@ -1,11 +1,92 @@
 [
   {
-    "Name": "Barcelona",
+    "Name": "FC Barcelona",
     "Location": "Barcelona",
-    "Stadium": "Camp Nou",
+    "Stadium": "Spotify Camp Nou",
     "FoundationDate": "1899-11-29T00:00:00",
-    "Titles": 30,
+    "Titles": 27,
     "IsActive": true,
     "HasTitles": true
+  },
+  {
+    "Name": "Real Madrid",
+    "Location": "Madrid",
+    "Stadium": "Santiago Bernabéu",
+    "FoundationDate": "1902-03-06T00:00:00",
+    "Titles": 35,
+    "IsActive": true,
+    "HasTitles": true
+  },
+  {
+    "Name": "Atlético de Madrid",
+    "Location": "Madrid",
+    "Stadium": "Cívitas Metropolitano",
+    "FoundationDate": "1903-04-26T00:00:00",
+    "Titles": 11,
+    "IsActive": true,
+    "HasTitles": true
+  },
+  {
+    "Name": "Sevilla FC",
+    "Location": "Sevilla",
+    "Stadium": "Ramón Sánchez-Pizjuán",
+    "FoundationDate": "1890-01-25T00:00:00",
+    "Titles": 1,
+    "IsActive": true,
+    "HasTitles": true
+  },
+  {
+    "Name": "Valencia CF",
+    "Location": "Valencia",
+    "Stadium": "Mestalla",
+    "FoundationDate": "1919-03-18T00:00:00",
+    "Titles": 6,
+    "IsActive": true,
+    "HasTitles": true
+  },
+  {
+    "Name": "Athletic Club",
+    "Location": "Bilbao",
+    "Stadium": "San Mamés",
+    "FoundationDate": "1898-01-01T00:00:00",
+    "Titles": 8,
+    "IsActive": true,
+    "HasTitles": true
+  },
+  {
+    "Name": "Real Betis",
+    "Location": "Sevilla",
+    "Stadium": "Benito Villamarín",
+    "FoundationDate": "1907-09-12T00:00:00",
+    "Titles": 1,
+    "IsActive": true,
+    "HasTitles": true
+  },
+  {
+    "Name": "Real Sociedad",
+    "Location": "San Sebastián",
+    "Stadium": "Reale Arena",
+    "FoundationDate": "1909-09-07T00:00:00",
+    "Titles": 2,
+    "IsActive": true,
+    "HasTitles": true
+  },
+  {
+    "Name": "Villarreal CF",
+    "Location": "Villarreal",
+    "Stadium": "Estadio de la Cerámica",
+    "FoundationDate": "1923-03-10T00:00:00",
+    "Titles": 0,
+    "IsActive": true,
+    "HasTitles": false
+  },
+  {
+    "Name": "Celta de Vigo",
+    "Location": "Vigo",
+    "Stadium": "Abanca Balaídos",
+    "FoundationDate": "1923-08-23T00:00:00",
+    "Titles": 0,
+    "IsActive": true,
+    "HasTitles": false
   }
 ]
