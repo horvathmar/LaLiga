@@ -1,0 +1,99 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "Z:\\WPF Projekt\\LaLiga\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9E81CE50-6A0B-4AE0-815A-AAC8B338A83A}|LaLiga\\LaLiga.csproj|z:\\wpf projekt\\laliga\\laliga\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9E81CE50-6A0B-4AE0-815A-AAC8B338A83A}|LaLiga\\LaLiga.csproj|solutionrelative:laliga\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E81CE50-6A0B-4AE0-815A-AAC8B338A83A}|LaLiga\\LaLiga.csproj|z:\\wpf projekt\\laliga\\laliga\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E81CE50-6A0B-4AE0-815A-AAC8B338A83A}|LaLiga\\LaLiga.csproj|solutionrelative:laliga\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E81CE50-6A0B-4AE0-815A-AAC8B338A83A}|LaLiga\\LaLiga.csproj|z:\\wpf projekt\\laliga\\laliga\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E81CE50-6A0B-4AE0-815A-AAC8B338A83A}|LaLiga\\LaLiga.csproj|solutionrelative:laliga\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E81CE50-6A0B-4AE0-815A-AAC8B338A83A}|LaLiga\\LaLiga.csproj|z:\\wpf projekt\\laliga\\laliga\\teameditorwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9E81CE50-6A0B-4AE0-815A-AAC8B338A83A}|LaLiga\\LaLiga.csproj|solutionrelative:laliga\\teameditorwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E81CE50-6A0B-4AE0-815A-AAC8B338A83A}|LaLiga\\LaLiga.csproj|z:\\wpf projekt\\laliga\\laliga\\datamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E81CE50-6A0B-4AE0-815A-AAC8B338A83A}|LaLiga\\LaLiga.csproj|solutionrelative:laliga\\datamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TeamEditorWindow.xaml",
+              "DocumentMoniker": "Z:\\WPF Projekt\\LaLiga\\LaLiga\\TeamEditorWindow.xaml",
+              "RelativeDocumentMoniker": "LaLiga\\TeamEditorWindow.xaml",
+              "ToolTip": "Z:\\WPF Projekt\\LaLiga\\LaLiga\\TeamEditorWindow.xaml",
+              "RelativeToolTip": "LaLiga\\TeamEditorWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-26T11:54:16.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DataManager.cs",
+              "DocumentMoniker": "Z:\\WPF Projekt\\LaLiga\\LaLiga\\DataManager.cs",
+              "RelativeDocumentMoniker": "LaLiga\\DataManager.cs",
+              "ToolTip": "Z:\\WPF Projekt\\LaLiga\\LaLiga\\DataManager.cs",
+              "RelativeToolTip": "LaLiga\\DataManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T11:51:23.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Team.cs",
+              "DocumentMoniker": "Z:\\WPF Projekt\\LaLiga\\LaLiga\\Team.cs",
+              "RelativeDocumentMoniker": "LaLiga\\Team.cs",
+              "ToolTip": "Z:\\WPF Projekt\\LaLiga\\LaLiga\\Team.cs",
+              "RelativeToolTip": "LaLiga\\Team.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T11:50:30.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "Z:\\WPF Projekt\\LaLiga\\LaLiga\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "LaLiga\\MainWindow.xaml",
+              "ToolTip": "Z:\\WPF Projekt\\LaLiga\\LaLiga\\MainWindow.xaml",
+              "RelativeToolTip": "LaLiga\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-26T11:46:09.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "Z:\\WPF Projekt\\LaLiga\\LaLiga\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "LaLiga\\MainWindow.xaml.cs",
+              "ToolTip": "Z:\\WPF Projekt\\LaLiga\\LaLiga\\MainWindow.xaml.cs",
+              "RelativeToolTip": "LaLiga\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T11:46:06.195Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

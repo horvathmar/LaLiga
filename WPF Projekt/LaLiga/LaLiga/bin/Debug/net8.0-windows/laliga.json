@@ -1,0 +1,182 @@
+[
+  {
+    "Name": "Athletic Club",
+    "Location": "Bilbao",
+    "Stadium": "Estadio San Mamés",
+    "FoundationDate": "1898-01-01",
+    "Titles": 8,
+    "IsActive": true,
+    "HasTitles": true
+  },
+  {
+    "Name": "Atlético de Madrid",
+    "Location": "Madrid",
+    "Stadium": "Estadio Riyadh Air Metropolitano",
+    "FoundationDate": "1903-04-26",
+    "Titles": 11,
+    "IsActive": true,
+    "HasTitles": true
+  },
+  {
+    "Name": "CA Osasuna",
+    "Location": "Pamplona",
+    "Stadium": "Estadio El Sadar",
+    "FoundationDate": "1920-10-24",
+    "Titles": 0,
+    "IsActive": true,
+    "HasTitles": false
+  },
+  {
+    "Name": "Celta Vigo",
+    "Location": "Vigo",
+    "Stadium": "Estadio ABANCA Balaídos",
+    "FoundationDate": "1923-08-23",
+    "Titles": 0,
+    "IsActive": true,
+    "HasTitles": false
+  },
+  {
+    "Name": "Deportivo Alavés",
+    "Location": "Vitoria-Gasteiz",
+    "Stadium": "Campo de Fútbol de Mendizorrotza",
+    "FoundationDate": "1921-01-23",
+    "Titles": 0,
+    "IsActive": true,
+    "HasTitles": false
+  },
+  {
+    "Name": "Elche CF",
+    "Location": "Elche",
+    "Stadium": "Estadio Martínez Valero",
+    "FoundationDate": "1923-09-28",
+    "Titles": 0,
+    "IsActive": true,
+    "HasTitles": false
+  },
+  {
+    "Name": "Espanyol",
+    "Location": "Cornellà de Llobregat",
+    "Stadium": "RCDE Stadium",
+    "FoundationDate": "1900-10-28",
+    "Titles": 0,
+    "IsActive": true,
+    "HasTitles": false
+  },
+  {
+    "Name": "FC Barcelona",
+    "Location": "Barcelona",
+    "Stadium": "Olímpic Lluís Companys",
+    "FoundationDate": "1899-11-29",
+    "Titles": 28,
+    "IsActive": true,
+    "HasTitles": true
+  },
+  {
+    "Name": "Getafe CF",
+    "Location": "Getafe",
+    "Stadium": "Estadio Coliseum",
+    "FoundationDate": "1983-07-08",
+    "Titles": 0,
+    "IsActive": true,
+    "HasTitles": false
+  },
+  {
+    "Name": "Girona",
+    "Location": "Girona",
+    "Stadium": "Estadio Municipal de Montilivi",
+    "FoundationDate": "1930-07-23",
+    "Titles": 0,
+    "IsActive": true,
+    "HasTitles": false
+  },
+  {
+    "Name": "Levante",
+    "Location": "Valencia",
+    "Stadium": "Estadio Ciutat de València",
+    "FoundationDate": "1909-09-09",
+    "Titles": 0,
+    "IsActive": true,
+    "HasTitles": false
+  },
+  {
+    "Name": "Mallorca",
+    "Location": "Palma",
+    "Stadium": "Estadi Mallorca Son Moix",
+    "FoundationDate": "1916-03-05",
+    "Titles": 0,
+    "IsActive": true,
+    "HasTitles": false
+  },
+  {
+    "Name": "Oviedo",
+    "Location": "Oviedo",
+    "Stadium": "Estadio Carlos Tartiere",
+    "FoundationDate": "1926-03-26",
+    "Titles": 0,
+    "IsActive": true,
+    "HasTitles": false
+  },
+  {
+    "Name": "Rayo Vallecano",
+    "Location": "Madrid",
+    "Stadium": "El Campo de Fútbol de Vallecas",
+    "FoundationDate": "1924-05-29",
+    "Titles": 0,
+    "IsActive": true,
+    "HasTitles": false
+  },
+  {
+    "Name": "Real Betis",
+    "Location": "Seville",
+    "Stadium": "Estadio Olímpico de la Cartuja",
+    "FoundationDate": "1907-09-12",
+    "Titles": 1,
+    "IsActive": true,
+    "HasTitles": true
+  },
+  {
+    "Name": "Real Madrid",
+    "Location": "Madrid",
+    "Stadium": "Estadio Santiago Bernabéu",
+    "FoundationDate": "1902-03-06",
+    "Titles": 36,
+    "IsActive": true,
+    "HasTitles": true
+  },
+  {
+    "Name": "Real Sociedad",
+    "Location": "San Sebastián",
+    "Stadium": "Reale Arena",
+    "FoundationDate": "1909-09-07",
+    "Titles": 2,
+    "IsActive": true,
+    "HasTitles": true
+  },
+  {
+    "Name": "Sevilla",
+    "Location": "Seville",
+    "Stadium": "Estadio Ramón Sánchez-Pizjuán",
+    "FoundationDate": "1890-01-25",
+    "Titles": 1,
+    "IsActive": true,
+    "HasTitles": true
+  },
+  {
+    "Name": "Valencia",
+    "Location": "Valencia",
+    "Stadium": "Camp de Mestalla",
+    "FoundationDate": "1919-03-18",
+    "Titles": 6,
+    "IsActive": true,
+    "HasTitles": true
+  },
+  {
+    "Name": "Villarreal",
+    "Location": "Villarreal",
+    "Stadium": "Estadio de la Cerámica",
+    "FoundationDate": "1923-03-10",
+    "Titles": 0,
+    "IsActive": true,
+    "HasTitles": false
+  }
+]

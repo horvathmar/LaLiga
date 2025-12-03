@@ -1,3 +1,0 @@
-# LaLiga
-
-read me
