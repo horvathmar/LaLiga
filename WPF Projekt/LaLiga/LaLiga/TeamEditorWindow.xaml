@@ -1,8 +1,8 @@
 ﻿<Window x:Class="LaLiga.TeamEditorWindow"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-        Title="Csapat szerkesztése" Height="400" Width="300">
-    <StackPanel Margin="10">
+        Title="Csapat szerkesztése" Height="420" Width="300" Background="Beige">
+    <StackPanel Margin="10" >
         <Label Content="Név:"/>
         <TextBox x:Name="txtName"/>
 
@@ -27,6 +27,6 @@
             <RadioButton x:Name="rbNo" Content="Nem" GroupName="HasTitles" Margin="10,0,0,0"/>
         </StackPanel>
 
-        <Button Content="Mentés" Click="btnSave_Click" Margin="0,20,0,0"/>
+        <Button Background="Green" Height="30" Foreground="White" Content="Mentés" Click="btnSave_Click" Margin="0,20,0,0"/>
     </StackPanel>
 </Window>
